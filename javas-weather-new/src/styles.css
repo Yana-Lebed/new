@@ -1,0 +1,43 @@
+.btn {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  font-family: "Oswald", sans-serif;
+}
+.week {
+  display: block;
+  box-shadow: 2px 5px 2px rgb(145, 141, 141);
+}
+.card {
+  border-radius: 4px;
+  background-image: url("https://i.pinimg.com/564x/b1/5a/7b/b15a7b16a5c962dc12057409530a81ac.jpg");
+  background-size: 1500px;
+}
+
+.temperature {
+  font-size: 65px;
+  font-weight: 300;
+}
+
+.search-engine {
+  text-align: center;
+}
+
+.city-submit {
+  background-color: #0a58ca;
+  border-color: #0a58ca;
+  border-radius: 5px;
+  color: aliceblue;
+}
+#myLocation {
+  display: block;
+  margin: 0 auto;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
+  border-radius: 5px;
+  color: aliceblue;
+}
+.topWeather {
+  text-align: center;
+}
